@@ -59,14 +59,15 @@ Instalación de GLPI en un área local.
     
 Instalación de FunsionInventory.
    
-    fusioninventory-agent_windows funciona anexo con fusioninventory (plugin de glpi).
-    Para su correcta instalación debes otorgarle permisos de administrador, pulsando botón derecho sobre el programa.
-    Seleccionamos el lenguaje preferido y daremos siguiente.
-    Nos saldrá el mensaje de bienvenida, daremos siguiente.
-    Aceptas los acuerdos de licencias y presionas siguiente.
-    Tipo de instalación por defecto y siguente.
-    Dejamos el directorio de instalación por defecto y siguiente.
-    Nos dirigimos al campo de Destinos Remotos.
+fusioninventory-agent_windows funciona anexo con fusioninventory (plugin de glpi).
+Para su correcta instalación debes otorgarle permisos de administrador, pulsando botón derecho sobre el programa.
+Seleccionamos el lenguaje preferido y daremos siguiente.
+Nos saldrá el mensaje de bienvenida, daremos siguiente.
+Aceptas los acuerdos de licencias y presionas siguiente.
+Tipo de instalación por defecto y siguente.
+Dejamos el directorio de instalación por defecto y siguiente.
+Nos dirigimos al campo de Destinos Remotos.
+    
         Ésta parte es importante, debes ingresar la siguiente URL en el campo de texto.
         http://*tu_direcciónip*/plugins/fusioninventory/
         
@@ -79,15 +80,15 @@ Instalación de FunsionInventory.
         
         http://198.0.0.1/plugins/fusioninventory/
         
-    Pulsas siguiente.
+Pulsas siguiente.
     
-    Luego de eso, dejar por defecto todo, ponemos siguiente a toda las pantallas hasta llegar a Options Diverses.
-        Dejamos en check, las primeras dos opciones solamente y pulsamos siguiente.
+Luego de eso, dejar por defecto todo, ponemos siguiente a toda las pantallas hasta llegar a Options Diverses.
+    Dejamos en check, las primeras dos opciones solamente y pulsamos siguiente.
     
-    Siguiente hasta que inicie la instalación y finalizamos .
+Siguiente hasta que inicie la instalación y finalizamos .
     
     
-    Para inventariar, un equipo debemos ir a la URL
+Para inventariar, un equipo debemos ir a la URL
 
     http://*tu_direcciónip*:62354/
 
@@ -97,5 +98,9 @@ Instalación de FunsionInventory.
     http://198.0.0.1:6235/
     
     
-    Nos salta la página de fusion inventory y pulsamos Force an Inventory. Si nos salta OK, el computador, estará inventariado.
-    Eso podemos verlo en el GLPI, situandonos en inventario y seleccionando la pestaña de computadoras.
+Nos salta la página de fusion inventory y pulsamos Force an Inventory. Si nos salta OK, el computador, estará inventariado.
+Eso podemos verlo en el GLPI, situandonos en inventario y seleccionando la pestaña de computadoras.
+
+
+
+
