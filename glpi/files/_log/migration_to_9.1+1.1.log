@@ -1,0 +1,11 @@
+2017-07-26 15:29:52 [2@NBPRETAMO001]
+0 segundos for "Installation of plugin FusionInventory" @ 2017-07-26 15:29:52 [2@NBPRETAMO001]
+0 segundos for "Clean data from old installation of the plugin" @ 2017-07-26 15:29:52 [2@NBPRETAMO001]
+0 segundos for "Clean rules from old installation of the plugin" @ 2017-07-26 15:30:46 [2@NBPRETAMO001]
+54 segundos for "Creation tables in database" @ 2017-07-26 15:30:46 [2@NBPRETAMO001]
+0 segundos for "Creation of folders" @ 2017-07-26 15:30:47 [2@NBPRETAMO001]
+1 segundo for "Initialize profiles" @ 2017-07-26 15:30:48 [2@NBPRETAMO001]
+1 segundo for "Initialize configuration" @ 2017-07-26 15:30:48 [2@NBPRETAMO001]
+0 segundos for "Initialize agent TASKS" @ 2017-07-26 15:30:48 [2@NBPRETAMO001]
+0 segundos for "Initialize cron task" @ 2017-07-26 15:30:50 [2@NBPRETAMO001]
+2 segundos for "Create rules" @ 

@@ -1,0 +1,254 @@
+2017-07-26 15:44:58 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:45:06 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:47:17 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:49:18 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:51:19 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:53:19 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 15:55:23 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 17:44:57 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 17:45:10 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT DISTINCT gi.id, gi.name
+			FROM glpi_s gi, glpi_items_tickets git, glpi_tickets gt
+			WHERE gi.is_deleted = 0
+			AND gi.id = git.items_id
+			AND git.itemtype = \'\'
+			AND gi.entities_id IN (0) 
+			AND gt.id = git.tickets_id
+			AND gt.date BETWEEN \'2017-07-01 00:00:00\' AND \'2017-07-26 23:59:59\'
+			ORDER BY gi.name 
+  Error: Table 'basededatos.glpi_s' doesn't exist
+  Backtrace :
+  plugins\dashboard\front\reports\rel_assets.php:298 
+2017-07-26 18:07:55 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:09:56 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:11:57 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:14:15 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:16:20 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:18:21 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:20:22 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:22:23 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:24:24 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:26:25 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 18:28:25 [2@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-07-26 22:08:09 [7@NBPRETAMO001]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (3) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (3)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               

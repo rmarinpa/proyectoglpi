@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-07-27 09:29:33</LOGDATE>
+    </ACCESSLOG>
+    <ACCOUNTINFO>
+      <KEYNAME>TAG</KEYNAME>
+      <KEYVALUE>Inventario_Demo</KEYVALUE>
+    </ACCOUNTINFO>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BATTERIES>
+      <CAPACITY>41610</CAPACITY>
+      <CHEMISTRY>Lithium Ion</CHEMISTRY>
+      <DATE>23/03/2016</DATE>
+      <MANUFACTURER>31-42-6E</MANUFACTURER>
+      <NAME>HS04041</NAME>
+      <SERIAL>12573 03/23/2016</SERIAL>
+      <VOLTAGE>14600</VOLTAGE>
+    </BATTERIES>
+    <BIOS>
+      <ASSETTAG>5CG6183T9N</ASSETTAG>
+      <BDATE>10/29/2015</BDATE>
+      <BMANUFACTURER>Insyde</BMANUFACTURER>
+      <BVERSION>F.1C</BVERSION>
+      <MMANUFACTURER>HP</MMANUFACTURER>
+      <MMODEL>8133</MMODEL>
+      <MSN>PFEZD00WB24153</MSN>
+      <SKUNUMBER>T1C07LT#ABM</SKUNUMBER>
+      <SMANUFACTURER>HP</SMANUFACTURER>
+      <SMODEL>HP 245 G4 Notebook PC</SMODEL>
+      <SSN>5CG6183T9N</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>FCH SATA Controller [AHCI mode]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH SATA Controller [AHCI mode]</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>7804</PRODUCTID>
+      <TYPE>AMD SATA Controller</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH USB XHCI Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH USB XHCI Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>7814</PRODUCTID>
+      <TYPE>AMD USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH USB EHCI Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH USB EHCI Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>7808</PRODUCTID>
+      <TYPE>Standard Enhanced PCI to USB Host Controller</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH USB OHCI Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH USB OHCI Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>7807</PRODUCTID>
+      <TYPE>Standard OpenHCD USB Host Controller</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH Azalia Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH Azalia Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>780d</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 1</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 1</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1531</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Kabini [Radeon HD 8240 / R3 Series]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Kabini [Radeon HD 8240 / R3 Series]</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>9838</PRODUCTID>
+      <TYPE>AMD Radeon(TM) R2 Graphics</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH LPC Bridge</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH LPC Bridge</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>780e</PRODUCTID>
+      <TYPE>PCI standard ISA bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 3</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 3</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1533</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH SMBus Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH SMBus Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>780b</PRODUCTID>
+      <TYPE>AMD SMBus</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FCH SD Flash Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>FCH SD Flash Controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>7813</PRODUCTID>
+      <TYPE>SDA Standard Compliant SD Host Controller</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 0</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 0</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1530</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Root Complex</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Root Complex</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>1536</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>BCM43142 802.11b/g/n</CAPTION>
+      <MANUFACTURER>Broadcom Limited</MANUFACTURER>
+      <NAME>BCM43142 802.11b/g/n</NAME>
+      <PCISUBSYSTEMID>103c:804a</PCISUBSYSTEMID>
+      <PRODUCTID>4365</PRODUCTID>
+      <TYPE>Adaptador de red 802.11n Broadcom</TYPE>
+      <VENDORID>14e4</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 0</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 0</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1538</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Kabini HDMI/DP Audio</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Kabini HDMI/DP Audio</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>9840</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Functions 5:1</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Functions 5:1</NAME>
+      <PCISUBSYSTEMID>1022:1234</PCISUBSYSTEMID>
+      <PRODUCTID>1439</PRODUCTID>
+      <TYPE>PCI Express Root Port</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 5</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 5</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1535</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8101/2/6E PCI Express Fast/Gigabit Ethernet controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8101/2/6E PCI Express Fast/Gigabit Ethernet controller</NAME>
+      <PCISUBSYSTEMID>103c:8133</PCISUBSYSTEMID>
+      <PRODUCTID>8136</PRODUCTID>
+      <TYPE>Realtek PCIe FE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 2</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 2</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1532</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 16h Processor Function 4</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 16h Processor Function 4</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1534</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>AMD64 Family 22 Model 0 Stepping 1</DESCRIPTION>
+      <FAMILYNUMBER>22</FAMILYNUMBER>
+      <ID>01 0F 70 00 FF FB 8B 17</ID>
+      <MANUFACTURER>AMD</MANUFACTURER>
+      <MODEL>0</MODEL>
+      <NAME>AMD E1-6015 APU with Radeon(TM) R2 Graphics</NAME>
+      <SERIAL>NotSupport</SERIAL>
+      <SPEED>1400</SPEED>
+      <STEPPING>1</STEPPING>
+      <THREAD>2</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disco fijo local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>169978</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>423C08C1</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>213923</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disco CD-ROM</DESCRIPTION>
+      <LETTER>E:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disco fijo local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>211258</FREE>
+      <LABEL>Datos</LABEL>
+      <LETTER>V:</LETTER>
+      <SERIAL>BA706AD7</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>211937</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>Datos</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disco fijo local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>46571</FREE>
+      <LABEL>NoUtilizar</LABEL>
+      <LETTER>W:</LETTER>
+      <SERIAL>F686A339</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>49999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>NoUtilizar</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>433</FREE>
+      <LABEL>Recuperación</LABEL>
+      <LETTER>Recuperación</LETTER>
+      <SERIAL>6231871D</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>449</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>Recuperación</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>79</FREE>
+      <SERIAL>A28DAADC</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>508</TOTAL>
+      <TYPE>Local Disk</TYPE>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%ProgramFiles%\WindowsPowerShell\Modules;%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>22</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>AMD64 Family 22 Model 0 Stepping 1, AuthenticAMD</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>0001</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <FIREWALL>
+      <PROFILE>PublicProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <PROFILE>StandardProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <DESCRIPTION>Realtek PCIe FE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.0.49</IPADDRESS>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <DESCRIPTION>Realtek PCIe FE Family Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::c9ce:c04f:517f:671</IPADDRESS6>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Notebook</CHASSIS_TYPE>
+      <CHECKSUM>70209</CHECKSUM>
+      <DEFAULTGATEWAY>192.168.0.2</DEFAULTGATEWAY>
+      <DNS>192.168.0.205</DNS>
+      <ETIME>49</ETIME>
+      <IPADDR>192.168.0.49</IPADDR>
+      <LASTLOGGEDUSER>DegasaIT</LASTLOGGEDUSER>
+      <MEMORY>3554</MEMORY>
+      <NAME>NBPretamo001</NAME>
+      <OSNAME>Microsoft Windows 10 Pro</OSNAME>
+      <OSVERSION>10.0.15063</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>1400</PROCESSORS>
+      <PROCESSORT>AMD E1-6015 APU with Radeon(TM) R2 Graphics</PROCESSORT>
+      <USERID>DegasaIT</USERID>
+      <UUID>C1058AC9-2690-41A4-8AF7-9A072E7075AA</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINLANG>2058</WINLANG>
+      <WINOWNER>DegasaIT</WINOWNER>
+      <WINPRODID>00330-71304-82006-AAOEM</WINPRODID>
+      <WINPRODKEY>4NPCV-M4VD6-HFDXW-JJY9K-FRG6R</WINPRODKEY>
+      <WORKGROUP>degasa.cl</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Mejorado (101 ó 102 teclas)</CAPTION>
+      <DESCRIPTION>Standard PS/2 Keyboard</DESCRIPTION>
+      <LAYOUT>0000080A</LAYOUT>
+      <NAME>Mejorado (101 ó 102 teclas)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>ELAN Touchpad</CAPTION>
+      <DESCRIPTION>ELAN Touchpad</DESCRIPTION>
+      <INTERFACE>Other</INTERFACE>
+      <MANUFACTURER>ELAN</MANUFACTURER>
+      <NAME>ELAN Touchpad</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LICENSEINFOS>
+      <COMPONENTS>Access/AccessRuntime/Excel/ExcelConsumer/Groove/InfoPath/OneNote/Outlook/OutlookStandard/PowerPoint/Project/Publisher/SharePointDesigner/Visio/VisioSDK/Word/WordConsumer</COMPONENTS>
+      <FULLNAME>Microsoft Office Professional 2010</FULLNAME>
+      <KEY>VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB</KEY>
+      <NAME>Microsoft Office</NAME>
+      <OEM>1</OEM>
+      <PRODUCTID>82503-018-0000106-48596</PRODUCTID>
+      <TRIAL>0</TRIAL>
+      <UPDATE>SP2</UPDATE>
+    </LICENSEINFOS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administradores de Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invitados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lectores del registro de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Operadores de asistencia de control de acceso</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuración de red</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de copia de seguridad</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuarios</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuarios avanzados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Usuarios COM distribuidos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Usuarios de administración remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuarios de escritorio remoto</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuarios del monitor de sistema</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuarios del registro de rendimiento</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3115766526-1783206821-3913230254-1003</ID>
+      <NAME>Administrators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3115766526-1783206821-3913230254-1001</ID>
+      <NAME>DegasaIT</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPTION>Bottom-Slot 1(Left)</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>Empty</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>Empty</SERIALNUMBER>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>Bottom-Slot 2(Right)</CAPTION>
+      <DESCRIPTION>SODIMM</DESCRIPTION>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>14CBFB28</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MONITORS>
+      <ALTSERIAL>D009</ALTSERIAL>
+      <BASE64>AP///////wAebQEAAQEBAQEUAQOAEAl4Cu6Ro1RMmSYPUFShCACBgGFARUAxQAEBAQEBAQEBAjqAGHE4LUBYLEUAoFoAAAAeAR0AclHQHiBuKFUAoFoAAAAeAAAA/QA5Px9SEAAKICAgICAgAAAA/ABMRyBUVgogICAgICAgAQQ=</BASE64>
+      <CAPTION>LG TV</CAPTION>
+      <DESCRIPTION>1/2010</DESCRIPTION>
+      <MANUFACTURER>Goldstar Company Ltd</MANUFACTURER>
+      <PORT>HDMI</PORT>
+      <SERIAL>01010101</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wAGrzwzAAAAAAAXAQSVHxF4Aq/lllhTiiYkUFQAAAABAQEBAQEBAQEBAQEBAQEBUhxWolAAFjAmFjYANa0QAAAY4RJWolAAFjAmFjYANa0QAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQSP8PPG4QDhppICAgAKI=</BASE64>
+      <DESCRIPTION>0/2013</DESCRIPTION>
+      <MANUFACTURER>AU Optronics</MANUFACTURER>
+      <SERIAL>00000000</SERIAL>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Fortinet Virtual Ethernet Adapter (NDIS 6.30)</DESCRIPTION>
+      <MACADDR>00:09:0F:FE:00:01</MACADDR>
+      <PNPDEVICEID>ROOT\NET\0001</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Fortinet SSL VPN Virtual Ethernet Adapter</DESCRIPTION>
+      <MACADDR>00:09:0F:AA:00:01</MACADDR>
+      <PNPDEVICEID>ROOT\NET\0002</PNPDEVICEID>
+      <SPEED>100000</SPEED>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>TeamViewer VPN Adapter</DESCRIPTION>
+      <MACADDR>00:FF:BD:24:20:67</MACADDR>
+      <PNPDEVICEID>ROOT\NET\0000</PNPDEVICEID>
+      <SPEED>10</SPEED>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Broadcom BCM43142 802.11 bgn Wi-Fi M.2 Adapter</DESCRIPTION>
+      <MACADDR>44:1C:A8:EA:9E:33</MACADDR>
+      <PCIID>14E4:4365:804A:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_14E4&amp;DEV_4365&amp;SUBSYS_804A103C&amp;REV_01\0000A8FFFFEA441C00</PNPDEVICEID>
+      <SPEED>78.5</SPEED>
+      <STATUS>Down</STATUS>
+      <TYPE>wifi</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe FE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.0.49</IPADDRESS>
+      <IPDHCP>192.168.0.205</IPDHCP>
+      <IPGATEWAY>192.168.0.2</IPGATEWAY>
+      <IPMASK>255.255.255.0</IPMASK>
+      <IPSUBNET>192.168.0.0</IPSUBNET>
+      <MACADDR>70:5A:0F:D6:B2:EA</MACADDR>
+      <PCIID>10EC:8136:8133:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_8133103C&amp;REV_07\01000000364CE00000</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe FE Family Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::c9ce:c04f:517f:671</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>70:5A:0F:D6:B2:EA</MACADDR>
+      <PCIID>10EC:8136:8133:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_8133103C&amp;REV_07\01000000364CE00000</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Microsoft Wi-Fi Direct Virtual Adapter</DESCRIPTION>
+      <MACADDR>46:1C:A8:EA:9E:33</MACADDR>
+      <PNPDEVICEID>{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&amp;35EBECE0&amp;0&amp;11</PNPDEVICEID>
+      <SPEED>9223372036854.78</SPEED>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (IP)</DESCRIPTION>
+      <MACADDR>A6:93:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANIP</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (IPv6)</DESCRIPTION>
+      <MACADDR>B4:41:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANIPV6</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (Network Monitor)</DESCRIPTION>
+      <MACADDR>C8:32:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANBH</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-07-27 08:44:19</BOOT_TIME>
+      <DNS_DOMAIN>degasa.cl</DNS_DOMAIN>
+      <FQDN>NBPretamo001.degasa.cl</FQDN>
+      <FULL_NAME>Microsoft Windows 10 Pro</FULL_NAME>
+      <INSTALL_DATE>2017-07-17 18:33:09</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>10.0.15063</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK/>  <TIMEZONE>
+        <NAME>America/Santiago</NAME>
+        <OFFSET>-0400</OFFSET>
+      </TIMEZONE>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1001</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1500</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1500</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1600</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1600</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1300</NAME>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>J1703</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>J1705</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>J1800</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>J1850</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J900</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2106</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2105</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1001</CAPTION>
+      <DESCRIPTION>J1001</DESCRIPTION>
+      <NAME>J1001</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1500</CAPTION>
+      <DESCRIPTION>J1500</DESCRIPTION>
+      <NAME>J1500</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1500</CAPTION>
+      <DESCRIPTION>J1500</DESCRIPTION>
+      <NAME>J1500</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1600</CAPTION>
+      <DESCRIPTION>J1600</DESCRIPTION>
+      <NAME>J1600</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1600</CAPTION>
+      <DESCRIPTION>J1600</DESCRIPTION>
+      <NAME>J1600</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1300</CAPTION>
+      <DESCRIPTION>J1300</DESCRIPTION>
+      <NAME>J1300</NAME>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1703</CAPTION>
+      <DESCRIPTION>J1703</DESCRIPTION>
+      <NAME>J1703</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1705</CAPTION>
+      <DESCRIPTION>J1705</DESCRIPTION>
+      <NAME>J1705</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1800</CAPTION>
+      <DESCRIPTION>J1800</DESCRIPTION>
+      <NAME>J1800</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1850</CAPTION>
+      <DESCRIPTION>J1850</DESCRIPTION>
+      <NAME>J1850</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J900</CAPTION>
+      <DESCRIPTION>J900</DESCRIPTION>
+      <NAME>J900</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2106</CAPTION>
+      <DESCRIPTION>J2106</DESCRIPTION>
+      <NAME>J2106</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2105</CAPTION>
+      <DESCRIPTION>J2105</DESCRIPTION>
+      <NAME>J2105</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <REMOTE_MGMT>
+      <ID>623444705</ID>
+      <TYPE>teamviewer</TYPE>
+    </REMOTE_MGMT>
+    <SLOTS>
+      <DESCRIPTION>x2 PCI Express 2 x2</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J3606</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J3703</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>J3700</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>J3701</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>J2500</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PC-98/Card</DESCRIPTION>
+      <NAME>J615</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J3606</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J3703</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J3700</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J3701</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J2500</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Ranura de sistema</DESCRIPTION>
+      <DESIGNATION>J615</DESIGNATION>
+      <NAME>Ranura de sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Broadcom 802.11 Network Adapter</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Broadcom 802.11 Network Adapter</NAME>
+      <PUBLISHER>Broadcom Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter\bcmwlu00.exe" verbose /rootkey="Software\Broadcom\802.11\UninstallInfo" /rootdir="C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter" driver</UNINSTALL_STRING>
+      <VERSION>7.35.333.0</VERSION>
+      <VERSION_MAJOR>7</VERSION_MAJOR>
+      <VERSION_MINOR>35</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CCleaner</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>CCleaner</NAME>
+      <PUBLISHER>Piriform</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\CCleaner\uninst.exe"</UNINSTALL_STRING>
+      <VERSION>5.32</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Elantech</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>ELAN Touchpad 15.2.2.2_X64_WHQL</NAME>
+      <PUBLISHER>ELAN Microelectronic Corp.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>%ProgramFiles%\Elantech\ETDUn_inst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.emc.com.tw</URL_INFO_ABOUT>
+      <VERSION>15.2.2.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>https://github.com/fusioninventory/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.20 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.20</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe</UNINSTALL_STRING>
+      <VERSION>10.0.50903</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>54.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Sublime Text 3_is1</GUID>
+      <INSTALLDATE>24/07/2017</INSTALLDATE>
+      <NAME>Sublime Text Build 3126</NAME>
+      <PUBLISHER>Sublime HQ Pty Ltd</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Sublime Text 3\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.sublimetext.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>WinRAR 5.40 (64-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>5.40.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A1B4690-E176-4533-8058-939480AEE1D0}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Broadcom Bluetooth Drivers</NAME>
+      <PUBLISHER>Broadcom Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{0A1B4690-E176-4533-8058-939480AEE1D0}</UNINSTALL_STRING>
+      <VERSION>12.0.1.695</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Intel® PRO/Wireless Driver installation package</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2b192f1e-b8b6-4ea8-9eb0-31dae50e7dbd}</GUID>
+      <HELPLINK>http://www.intel.com/support/go/wireless_support</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Intel(R) PRO/Wireless Driver</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.intel.com/support/go/wireless_support</URL_INFO_ABOUT>
+      <VERSION>18.32.0000.3816</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C28BFD4-90C7-3138-87EF-418DC16E9598}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{3C28BFD4-90C7-3138-87EF-418DC16E9598}</UNINSTALL_STRING>
+      <VERSION>11.0.51106</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4DFCD818-036A-4229-A67D-CF17DC461D92}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/4013214</HELPLINK>
+      <INSTALLDATE>12/07/2017</INSTALLDATE>
+      <NAME>Windows 10 Update and Privacy Settings</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{4DFCD818-036A-4229-A67D-CF17DC461D92}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/4013214</URL_INFO_ABOUT>
+      <VERSION>1.0.14.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{5AF4E09F-5C9B-3AAF-B731-544D3DC821DD}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{5AF4E09F-5C9B-3AAF-B731-544D3DC821DD}</UNINSTALL_STRING>
+      <VERSION>11.0.51106</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-002A-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Office 64-bit Components 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-002A-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-002A-0C0A-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Shared 64-bit MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-002A-0C0A-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{929FBD26-9020-399B-9A7A-751D61F0B942}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}</UNINSTALL_STRING>
+      <VERSION>12.0.21005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}</UNINSTALL_STRING>
+      <VERSION>10.0.50908</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</UNINSTALL_STRING>
+      <VERSION>12.0.21005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D31863C4-DE3E-4430-92F6-9BC6B296E9BF}</GUID>
+      <INSTALLDATE>10/07/2017</INSTALLDATE>
+      <NAME>FortiClient</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Fortinet Inc</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{D31863C4-DE3E-4430-92F6-9BC6B296E9BF}</UNINSTALL_STRING>
+      <VERSION>5.6.0.1075</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F819C151-FFEE-4F01-BE68-0D1F76574F44}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>HP AC Power Control</NAME>
+      <PUBLISHER>Hewlett-Packard</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{F819C151-FFEE-4F01-BE68-0D1F76574F44}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.hp.com</URL_INFO_ABOUT>
+      <VERSION>1.0.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.483.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\59.0.3071.115\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>59.0.3071.115</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Firefox 54.0.1 (x86 es-CL)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 54.0.1 (x86 es-CL)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Mozilla Firefox 54.0.1 (x86 es-CL)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>54.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Office14.PROPLUS</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Professional Plus 2010</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\setup.exe" /uninstall PROPLUS /dll OSETUP.DLL</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>TeamViewer 10 Host</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files (x86)\TeamViewer\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>10.0.47484</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>xampp</GUID>
+      <HELPLINK>https://community.bitnami.com</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>XAMPP</NAME>
+      <PUBLISHER>Bitnami</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\xampp\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://apachefriends.org</URL_INFO_ABOUT>
+      <VERSION>5.6.31-0</VERSION>
+      <VERSION_MAJOR>5</VERSION_MAJOR>
+      <VERSION_MINOR>6</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{050d4fc8-5d48-4b8f-8972-47c82c46020f}</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.30501.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{099DAD2B-56C5-4919-9F82-418C2A018CAE}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>HP Wireless Button Driver</NAME>
+      <PUBLISHER>HP</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{099DAD2B-56C5-4919-9F82-418C2A018CAE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.hp.com</URL_INFO_ABOUT>
+      <VERSION>1.1.18.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5BC2B5AB-80DE-4E83-B8CF-426902051D0A}</GUID>
+      <HELPLINK>http://www.realtek.com.tw/downloads</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Realtek Card Reader</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{5BC2B5AB-80DE-4E83-B8CF-426902051D0A}\setup.exe" -runfromtemp  -removeonly</UNINSTALL_STRING>
+      <VERSION>10.0.10125.31214</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.33.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{6C772996-BFF3-3C8C-860B-B3D48FF05D65}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{6C772996-BFF3-3C8C-860B-B3D48FF05D65}</UNINSTALL_STRING>
+      <VERSION>11.0.51106</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6e8f74e0-43bd-4dce-8477-6ff6828acc07}</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{6e8f74e0-43bd-4dce-8477-6ff6828acc07}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.51106.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{74d0e5db-b326-4dae-a6b2-445b9de1836e}</GUID>
+      <INSTALLDATE>24/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{74d0e5db-b326-4dae-a6b2-445b9de1836e}\VC_redist.x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>14.0.23026.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8833FFB6-5B0C-4764-81AA-06DFEED9A476}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Realtek Ethernet Controller Driver</NAME>
+      <PUBLISHER>Realtek</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files (x86)\InstallShield Installation Information\{8833FFB6-5B0C-4764-81AA-06DFEED9A476}\setup.exe -runfromtemp -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.realtek.com</URL_INFO_ABOUT>
+      <VERSION>10.1.505.2015</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8e70e4e1-06d7-470b-9f74-a51bef21088e}</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{8e70e4e1-06d7-470b-9f74-a51bef21088e}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.51106.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{287A1E92-9E41-4BC1-8920-B3D0E9220800}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2589375</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2589375) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{287A1E92-9E41-4BC1-8920-B3D0E9220800}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2589375</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{4D6FE7B6-559F-4DAC-92CF-A01C24046AEB}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2687423</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2010 (KB2687423) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{4D6FE7B6-559F-4DAC-92CF-A01C24046AEB}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2687423</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{4EEA3D3E-989C-4DF4-AB0A-3042C0C12AA3}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2817369</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft InfoPath 2010 (KB2817369) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{4EEA3D3E-989C-4DF4-AB0A-3042C0C12AA3}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2817369</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{5AA578BB-759C-40FD-9661-A737C0884541}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2794737</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2794737) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{5AA578BB-759C-40FD-9661-A737C0884541}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2794737</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{7AC3F78E-ECA0-45F4-A9CC-3E885DA23662}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2850016</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2010 (KB2850016) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{7AC3F78E-ECA0-45F4-A9CC-3E885DA23662}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2850016</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{7CA28304-D86F-4ACA-97FA-D126E0D02416}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2553347</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{7CA28304-D86F-4ACA-97FA-D126E0D02416}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2553347</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{9D69691D-823D-4C3E-9B12-563A3F520366}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2597087</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2597087) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{9D69691D-823D-4C3E-9B12-563A3F520366}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2597087</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{BA610006-2C39-4419-9834-CF61AB24810A}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2825640</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2825640) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{BA610006-2C39-4419-9834-CF61AB24810A}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2825640</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{C6943CC4-79E1-4B29-BFF7-8C4049C7DF61}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3115475</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Definition Update for Microsoft Office 2010 (KB3115475) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{C6943CC4-79E1-4B29-BFF7-8C4049C7DF61}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3115475</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{DADF7E25-FFA4-4D02-BE84-1DAE62C18516}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2589298</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2589298) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{DADF7E25-FFA4-4D02-BE84-1DAE62C18516}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2589298</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{DE28B448-32E8-4E8F-84F0-A52B21A49B5B}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2687455</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{DE28B448-32E8-4E8F-84F0-A52B21A49B5B}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2687455</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0011-0000-0000-0000000FF1CE}_Office14.PROPLUS_{F4284D93-7AE8-4309-8CF3-9AD394F35F3A}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2589352</HELPLINK>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2010 (KB2589352) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe" /removereleaseinpatch "{90140000-0011-0000-0000-0000000FF1CE}" "{F4284D93-7AE8-4309-8CF3-9AD394F35F3A}" "3082" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2589352</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0015-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Access MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-0015-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0016-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Excel MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-0016-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0018-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office PowerPoint MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-0018-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0019-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Publisher MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-0019-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001A-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Outlook MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001A-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001B-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Word MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001B-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-0403-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Catalan) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-0403-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-0409-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (English) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-0409-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (French) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-0416-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Portuguese (Brazil)) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-0416-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-042D-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Basque) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-042D-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-0456-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Galician) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-0456-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-001F-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-001F-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-002C-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proofing (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-002C-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-0044-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office InfoPath MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-0044-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-006E-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Shared MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-006E-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-00A1-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office OneNote MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-00A1-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-00BA-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Groove MUI (Spanish) 2010</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90140000-00BA-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.7015.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</GUID>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}</UNINSTALL_STRING>
+      <VERSION>9.0.30729.6161</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A2563E55-3BEC-3828-8D67-E5E8B9E8B675}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>24/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{A2563E55-3BEC-3828-8D67-E5E8B9E8B675}</UNINSTALL_STRING>
+      <VERSION>14.0.23026</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824225037}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>10/07/2017</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824225037}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS/>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1034-7B44-AC0F074E4100}</GUID>
+      <HELPLINK>http://www.adobe.com/es/support/main.html</HELPLINK>
+      <INSTALLDATE>15/07/2017</INSTALLDATE>
+      <NAME>Adobe Acrobat Reader DC - Español</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1034-7B44-AC0F074E4100}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>17.009.20058</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{BE960C1C-7BAD-3DE6-8B1A-2616FE532845}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>24/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{BE960C1C-7BAD-3DE6-8B1A-2616FE532845}</UNINSTALL_STRING>
+      <VERSION>14.0.23026</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E824E81C-80A4-3DFF-B5F9-4842A9FF5F7F}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{E824E81C-80A4-3DFF-B5F9-4842A9FF5F7F}</UNINSTALL_STRING>
+      <VERSION>11.0.51106</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EB4650E9-AF5A-476B-B685-114CFEAF698D}</GUID>
+      <INSTALLDATE>10/07/2017</INSTALLDATE>
+      <NAME>SIRION</NAME>
+      <PUBLISHER>INTEGRIUM LTDA.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{EB4650E9-AF5A-476B-B685-114CFEAF698D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.INTEGRIUMLTDA..com</URL_INFO_ABOUT>
+      <VERSION>2.50.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>24/07/2017</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.7661</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</GUID>
+      <INSTALLDATE>25/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</UNINSTALL_STRING>
+      <VERSION>9.0.21022</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>27/07/2017</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.483.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/07/2017</INSTALLDATE>
+      <NAME>KB4022405</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/07/2017</INSTALLDATE>
+      <NAME>KB4025376</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>KB4025342</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>Dispositivo de High Definition Audio</CAPTION>
+      <DESCRIPTION>Dispositivo de High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>Dispositivo de High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>1003YAM1</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>ST500LT012-1DG142</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>W3PQC5L5</SERIAL>
+      <SERIALNUMBER>W3PQC5L5</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+      <MODEL>hp      DVDRW  DU8A6SH</MODEL>
+      <NAME>hp      DVDRW  DU8A6SH</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>475609914366</SERIAL>
+      <SERIALNUMBER>475609914366</SERIALNUMBER>
+      <TYPE>DVD Writer</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>BCM43142A0 Bluetooth 4.0</CAPTION>
+      <MANUFACTURER>Broadcom Corp.</MANUFACTURER>
+      <NAME>BCM43142A0 Bluetooth 4.0</NAME>
+      <PRODUCTID>216D</PRODUCTID>
+      <SERIAL>441CA8EA9E34</SERIAL>
+      <VENDORID>0A5C</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>Cheng Uei Precision Industry Co., Ltd (Foxlink)</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0382</PRODUCTID>
+      <VENDORID>05C8</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>NBPRETAMO001</DOMAIN>
+      <LOGIN>DegasaIT</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.20</VERSIONCLIENT>
+    <VERSIONPROVIDER>
+      <COMMENTS>Provided by Teclib</COMMENTS>
+      <COMMENTS>Installer built with Appveyor on Fri Jun  2 06:15:46 UTC 2017</COMMENTS>
+      <NAME>FusionInventory</NAME>
+      <PERL_EXE>C:\Program Files\FusionInventory-Agent\perl\bin\perl.exe</PERL_EXE>
+      <PERL_VERSION>v5.24.1</PERL_VERSION>
+      <PROGRAM>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-win32-service</PROGRAM>
+      <VERSION>2.3.20</VERSION>
+    </VERSIONPROVIDER>
+    <VIDEOS>
+      <CHIPSET>AMD Radeon Graphics Processor (0x9838)</CHIPSET>
+      <NAME>AMD Radeon(TM) R2 Graphics</NAME>
+      <RESOLUTION>1366x768</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>NBPretamo001.degasa.cl-2017-07-26-08-58-24</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>
