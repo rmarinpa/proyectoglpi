@@ -24,7 +24,7 @@ Plugins para glpi.
     -dashboard
     -fusioninventory
     
-    Todo los programas se encuentran en mi nube personal. Igualmente, se encuentra un manual de GLPI en español por las dudas.                          https://drive.google.com/open?id=0B7VznoUZvr_ib1FUcXpQSzVuU1U
+Todo los programas se encuentran en mi nube personal. Igualmente, se encuentra un manual de GLPI en español por las dudas.               https://drive.google.com/open?id=0B7VznoUZvr_ib1FUcXpQSzVuU1U
     
     
 Instalación de GLPI en un área local.
