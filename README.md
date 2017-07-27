@@ -10,7 +10,8 @@
      
      Se añadió la Base de Datos con datos de prueba.
      
-     
+Pasos para la instalación de GLPI con sus complementos.
+
 Programas necesarios para el correcto funcionamiento del programa.
 
     -fusioninventory-agent_windows-x64_2.3.20 (Programa para el cliente)
