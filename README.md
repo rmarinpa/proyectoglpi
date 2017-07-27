@@ -80,27 +80,36 @@ Nos dirigimos al campo de Destinos Remotos.
         
         http://198.0.0.1/plugins/fusioninventory/
         
+        *Nota* 
+        *Copiar y pegar el enlace, porque más adelante se utilizará para la configuración del programa al GLPI.
+        *
+        
 Pulsas siguiente.
     
 Luego de eso, dejar por defecto todo, ponemos siguiente a toda las pantallas hasta llegar a Options Diverses.
     Dejamos en check, las primeras dos opciones solamente y pulsamos siguiente.
     
 Siguiente hasta que inicie la instalación y finalizamos .
-    
-    
-Para inventariar, un equipo debemos ir a la URL
+   
+
+
+Para la configuración del cliente, debemos dirigirnos en GLPI a la fila Administración y luego en Entidades.
+
+Nos aparecerá nuestra Entidad de SU (Super usuario)
+
+Pinchamos en nuestra única entidad y pinchamos dónde dice FusionInventory
+
+En servicio URL debemos pegar la URL que anteriormente copiamos y guardamos cambios.
+
+Para inventariar, un equipo debemos ir al navegador de nuestro computador cliente e insertar la URL
 
     http://*tu_direcciónip*:62354/
-
 
     Ejemplo:
     
     http://198.0.0.1:6235/
     
-    
+
 Nos salta la página de fusion inventory y pulsamos Force an Inventory. Si nos salta OK, el computador, estará inventariado.
 Eso podemos verlo en el GLPI, situandonos en inventario y seleccionando la pestaña de computadoras.
-
-
-
 
