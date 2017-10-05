@@ -1,5 +1,7 @@
-# proyectoglpi
-
+# Proyecto GLPI Degasa.
+ 
+ 
+ 
 -----27-07-17-----
 
     Se añadió el proyecto base que se encuentra en laboratorio.
